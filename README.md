@@ -13,7 +13,7 @@ The USGS provides earthquake data in a number of different formats, updated ever
 
    Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
    
-   <img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src=" https://github.com/azmir0218/leaflet-challenge/blob/main/Images/2-BasicMap.png">
+ <img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src="https://github.com/azmir0218/leaflet-challenge/blob/main/Images/2-BasicMap.png">
 
    * Your data markers should reflect the magnitude of the earthquake by their size and and depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color.
 
