@@ -15,6 +15,9 @@ The USGS provides earthquake data in a number of different formats, updated ever
 
    * Our data markers should reflect the magnitude of the earthquake by their size and and depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color.
 
+<img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src="https://github.com/leaflet-challenge/blob/main/Images/2-BasicMap.png">
+
+
    * **HINT:** The depth of the earth can be found as the third coordinate for each earthquake.
 
    * We included popups that provide additional information about the earthquake when a marker is clicked.
